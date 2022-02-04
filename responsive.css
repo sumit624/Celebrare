@@ -1,0 +1,50 @@
+@media screen and (max-width: 1190px){
+    Navbar{
+        flex-direction: column;
+    }
+
+    body{
+        position: absolute;
+    }
+
+    .logo{
+        text-align: center;
+    }
+
+    .login{
+        text-align: center;
+    }
+
+    .container1{
+        margin-top: 50px;
+        margin-left: 20px;
+    }
+
+    .text{
+        margin-left: 200px;
+        margin-top: 60px;
+    }
+
+    .container2{
+        flex-direction: column;
+        height: 90%;
+    }
+
+    .right{
+        width: 50vw;
+        margin-top: 20px;
+    }
+
+    .container3{
+        height: 120vh;
+    }
+
+    .container3 ul{
+        flex-direction: column;
+    }
+
+    .btn{
+        height: 50px;
+        width: 200px;
+    }
+}
